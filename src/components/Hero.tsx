@@ -16,16 +16,16 @@ export default function Hero() {
         <div className="text-center mb-16">
           {/* Main Headline */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-['Helvetica'] bg-gradient-to-b from-blue-400 to-white bg-clip-text text-transparent mb-6 leading-tight drop-shadow-lg">
-            All-in-one Platform to Simplify
+            Unified Workspace to Streamline
             <br />
-            <span className="bg-gradient-to-b from-blue-400 to-white bg-clip-text text-transparent">Your Business Workflow</span>
+            <span className="bg-gradient-to-b from-blue-400 to-white bg-clip-text text-transparent">Your Business Operations</span>
           </h1>
 
           {/* Subtext */}
           <p className="text-xl text-white/90 mb-12 max-w-3xl mx-auto leading-relaxed drop-shadow-md">
-            Harness the power of AI and machine learning for seamless
+           Leverage AI to automate tasks, manage projects, and enhance 
             <br />
-            project management and team collaboration.
+            team productivity—all from one powerful platform.
           </p>
 
           {/* CTA Buttons */}
