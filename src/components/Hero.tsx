@@ -15,10 +15,10 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center mb-16">
           {/* Main Headline */}
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-['Helvetica'] bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent mb-6 leading-tight drop-shadow-lg">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-['Helvetica'] bg-gradient-to-b from-blue-400 to-white bg-clip-text text-transparent mb-6 leading-tight drop-shadow-lg">
             All-in-one Platform to Simplify
             <br />
-            <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">Your Business Workflow</span>
+            <span className="bg-gradient-to-b from-blue-400 to-white bg-clip-text text-transparent">Your Business Workflow</span>
           </h1>
 
           {/* Subtext */}
