@@ -3,7 +3,12 @@ import { Play } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <section className="pt-64 pb-16 relative overflow-hidden bg-[url('/Untitled (1).png')] bg-cover bg-center bg-no-repeat min-h-screen">
+    <section className="pt-64 pb-16 relative overflow-hidden min-h-screen" style={{
+      backgroundImage: "url('/Untitled (1).png')",
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat'
+    }}>
       {/* Subtle overlay for text readability */}
       <div className="absolute inset-0 bg-black/30"></div>
       
